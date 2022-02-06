@@ -15,7 +15,18 @@ h2{
     }
 }
 
+.texto-remarcado{
+    @include texto-bold;
+  
+}
+.lista-curriculum{
+    @include lista-academica;
+}
 
+.encabezado-lista{
+    @include formato-h4;
+}
+    
 .texto-curri{
     @include justificado();
     padding: 20px;
@@ -23,4 +34,6 @@ h2{
 p{
     @include parrafo-justificado;
 }
+
+
 

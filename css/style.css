@@ -61,6 +61,22 @@ h2:hover {
   background-color: #5ff0f5;
 }
 
+.texto-remarcado {
+  font-weight: bold;
+}
+
+.lista-curriculum {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #8A084B;
+  text-align: left;
+  list-style-type: square;
+}
+
+.encabezado-lista {
+  text-align: left;
+  color: #8A084B;
+}
+
 .texto-curri {
   text-align: justify;
   padding: 20px;

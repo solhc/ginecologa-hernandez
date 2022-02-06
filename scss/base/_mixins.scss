@@ -34,6 +34,11 @@
         padding:20px;
 }
 
+@mixin formato-h4{
+    text-align: $alineacion-izquierda;
+    color: $color-titulo;
+}
+
 @mixin parrafo-justificado{
     font-family:Arial, Helvetica, sans-serif; 
     color:#8A084B; 
@@ -100,5 +105,17 @@
       }    
 }
 
+@mixin texto-bold {
+    font-weight: bold;
+}
+
+@mixin lista-academica{
+        font-family:Arial, Helvetica, sans-serif; 
+        color:#8A084B; 
+        text-align: left;
+        list-style-type: square;
+       
+      
+}
 
 
