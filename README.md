@@ -5,11 +5,11 @@
 
 
 
-- 🔭 Mi proyecto la creación de una página web para una Doctora con la especialidad de Ginecologia y obstetricia(https://plcenpractica.com/)
+- 🔭 Mi proyecto fue la creación de una página web para una Doctora con la especialidad de Ginecologia y Obstetricia (https://plcenpractica.com/)
 
-- 🌱 Actualmente estoy aprendiendo **Desarrollo web, Javascript, React Js, Desarrollo de aplicaciones**
 
-- 📫 Puedes escribirme al email **marisol1208@gmail.com**
+
+- 📫 Cualquier duda o comentario puedes escribirme al email **marisol1208@gmail.com**
 
 
 <p align="left">
