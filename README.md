@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente trabajo dando apoyo a cursos en línea [Cursos en línea de Plc's](https://plcenpractica.com/)
 
-- 🌱 Actualmente estoy aprendiendo **Desarrollo web, Javascript, ReacJs, Desarrollo de aplicaciones**
+- 🌱 Actualmente estoy aprendiendo **Desarrollo web, Javascript, React Js, Desarrollo de aplicaciones**
 
 - 📫 Puedes escribirme al email **marisol1208@gmail.com**
 
