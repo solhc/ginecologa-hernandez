@@ -5,7 +5,7 @@
 
 
 
-- 🔭 Mi proyecto fue la creación de una página web para una Doctora con la especialidad de Ginecologia y Obstetricia (https://plcenpractica.com/)
+- 🔭 Mi proyecto fue la creación de una página web para una Doctora con la especialidad de Ginecologia y Obstetricia (https://solhc.github.io/ginecologa-hernandez/)
 
 
 
