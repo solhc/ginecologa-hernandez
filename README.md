@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋soy Marisol Hernández</h1>
-<h3 align="center">Una desarrolladora web de México</h3>
+<h3 align="center">Actualmente estoy terminando el curso de Desarrollo web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solhc&label=Profile%20views&color=0e75b6&style=flat" alt="solhc" /> </p>
 
 
 
-- 🔭 Actualmente trabajo dando apoyo a cursos en línea [Cursos en línea de Plc's](https://plcenpractica.com/)
+- 🔭 Mi proyecto la creación de una página web para una Doctora con la especialidad de Ginecologia y obstetricia(https://plcenpractica.com/)
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollo web, Javascript, React Js, Desarrollo de aplicaciones**
 
